@@ -18,10 +18,11 @@ The purpose of the project is twofold -
 ![Stocks analysis 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/stocks-analysis-2017.png)
 
 
+### Stock analysis for 2018
 
 * In 2018 the stocks with over 80% return were ENPH and RUN. All other stocks dropped to a negative return percentage with the lowest being - DQ at -62.6% and JKS at -60.5%. The stocks ENPH, RUN and SPWR were the top three in terms of total daily volume.
 
-![Stocks analysis 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/stocks-analysis-2018.png)
+![Stocks analysis 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/stocks-analysis-2018.png)
 
 
 
