@@ -31,19 +31,19 @@ The purpose of the project is twofold -
 
 * Run time (0.64s) before and after (0.57s) refactoring for 2017.
 
-![runtime before - 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-before-2017.png)
+![runtime before - 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-before-refactor-2017.png)
 
 
-![runtime after - 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-after-2017.png)
+![runtime after - 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-after-refactor-2017.png)
 
 
 
 * Run time (1.07s) before and after (0.67s) refactoring for 2018.
 
-![runtime before - 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-before-2018.png)
+![runtime before - 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-before-refactor-2018.png)
 
 
-![runtime after - 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-after-2018.png)
+![runtime after - 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-after-refactor-2018.png)
 
 
 
