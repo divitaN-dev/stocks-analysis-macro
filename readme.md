@@ -15,15 +15,37 @@ The purpose of the project is twofold -
 
 * In 2017 the stock with almost 200% return was DQ, followed closely by a high return of 184.5% of SEDG. The stocks ENPH and FSLR performed very well too with a return exceeding 100%. The stocks SPWR and FSLR were the top two in terms of total daily volume.
 
+![Stocks analysis 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/stocks-analysis-2017.png)
+
+
+
 * In 2018 the stocks with over 80% return were ENPH and RUN. All other stocks dropped to a negative return percentage with the lowest being - DQ at -62.6% and JKS at -60.5%. The stocks ENPH, RUN and SPWR were the top three in terms of total daily volume.
+
+![Stocks analysis 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/stocks-analysis-2018.png)
+
+
 
 ### Code execution time
 
 * The code execution time decreased significantly for both stocks analysis of 2017 and 2018.
 
+* Run time (0.64s) before and after (0.57s) refactoring for 2017.
+
+![runtime before - 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-before-2017.png)
+
+
+![runtime after - 2017](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-after-2017.png)
+
+
+
 * Run time (1.07s) before and after (0.67s) refactoring for 2018.
 
-* Run time (0.64s) before and after (0.57s) refactoring for 2017.
+![runtime before - 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-before-2018.png)
+
+
+![runtime after - 2018](https://github.com/divitaN-dev/stocks-analysis-macro/blob/main/resources/runtime-after-2018.png)
+
+
 
 ## Summary
 
