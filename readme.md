@@ -28,7 +28,7 @@ The purpose of the project is twofold -
 
 ### Code execution time
 
-* The code execution time decreased significantly for both stocks analysis of 2017 and 2018.
+The code execution time decreased significantly for both stocks analysis of 2017 and 2018.
 
 * Run time (0.64s) before and after (0.57s) refactoring for 2017.
 
